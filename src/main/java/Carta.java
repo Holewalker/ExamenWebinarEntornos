@@ -8,16 +8,13 @@ public class Carta {
         this.numero = numero;
     }
 
-public String toString(){
+    public String toString(){
         String str = null;
-    return str;
+        return str;
     }
 
-public int getvalor(){
+    public int getvalor(){
         int valor=0;
         return valor;
-}
-
-
-
+    }
 }
